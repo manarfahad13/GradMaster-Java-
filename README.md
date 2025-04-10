@@ -6,26 +6,26 @@
 ![image](https://github.com/user-attachments/assets/3f305ca0-873f-4da3-81d4-ad78dd8dc1b4)
 
 
-### •	Defines a basic user entity with attributes username and password. This class serves as the base for other user types.
+### 	Defines a basic user entity with attributes username and password. This class serves as the base for other user types.
 ![image](https://github.com/user-attachments/assets/c4e1f530-475d-4bd3-bb02-58448fb4f7ec)
 
 
-### •	Extends the User class and adds attributes specific to students such as name, ‘student_id’, ‘grades’, ‘attendance’, and ‘portfolio’. These attributes are used to track a student's academic performance and other related information. In Java, we use the ‘extends’ keyword to inherit from the base class, while in Python, we specify the base class in parentheses after the class name.
+### 	Extends the User class and adds attributes specific to students such as name, ‘student_id’, ‘grades’, ‘attendance’, and ‘portfolio’. These attributes are used to track a student's academic performance and other related information. In Java, we use the ‘extends’ keyword to inherit from the base class, while in Python, we specify the base class in parentheses after the class name.
 
 ![image](https://github.com/user-attachments/assets/56036b2a-3346-4b09-9299-1e0b04e4ede2)
 
 
-### •	Extends the User class and provides methods and attributes specific to teachers. It allows teachers to perform actions like adding students, adding grades, and managing other aspects of the academic system. In Java, we use the extends keyword to inherit from the base class, while in Python, we specify the base class in parentheses after the class name.
+### 	Extends the User class and provides methods and attributes specific to teachers. It allows teachers to perform actions like adding students, adding grades, and managing other aspects of the academic system. In Java, we use the extends keyword to inherit from the base class, while in Python, we specify the base class in parentheses after the class name.
 ![image](https://github.com/user-attachments/assets/4875eff8-a6c4-4ce1-8b74-ed85f1a9ebf8)
 
 
-### •	The entry point of the program. It initializes a list of users and adds a default teacher user to it. It also provides the main menu and handles user authentication and navigation to respective user menus. In Java, the entry point is a method named main inside a class, whereas in Python, the entry point is typically at the top-level of the script.
+### 	The entry point of the program. It initializes a list of users and adds a default teacher user to it. It also provides the main menu and handles user authentication and navigation to respective user menus. In Java, the entry point is a method named main inside a class, whereas in Python, the entry point is typically at the top-level of the script.
 
 ![image](https://github.com/user-attachments/assets/27e3c8f7-3829-4209-b4fa-36264309f1fb)
 
 
 ## User Authentication:
-### •	Verifies user credentials by iterating through the list of users and comparing input credentials with stored ones. If a match is found, it returns the corresponding user object; otherwise, it returns null. In Java, methods are defined using the ‘method_name()’ syntax, while in Python, methods are defined similarly but without the need for a return type.
+### 	Verifies user credentials by iterating through the list of users and comparing input credentials with stored ones. If a match is found, it returns the corresponding user object; otherwise, it returns null. In Java, methods are defined using the ‘method_name()’ syntax, while in Python, methods are defined similarly but without the need for a return type.
 
 ![image](https://github.com/user-attachments/assets/5ef77ee4-1bce-4917-91b2-530dbdba0219)
 
