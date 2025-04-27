@@ -1,4 +1,7 @@
 # GradMaster using Java 
+
+This project aims to create a Student Grade and Academic Performance Tracking System in Java. It features digital gradebooks, student portfolios, attendance tracking, and a user-friendly interface for efficient grade management, student progress monitoring, and enhanced parent-teacher communication.
+
 ![image](https://github.com/user-attachments/assets/9664d36d-573d-4e1a-a777-ebf82457fdbb)
 
 
